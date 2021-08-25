@@ -85,8 +85,8 @@ defaults:
       layout: single
 
 # Outputting
-paginate: 5
-paginate_path: /page:num/
+paginate: 10 
+# paginate_path: /page:num/
 timezone: Asia/Shanghai
 
 # Plugins (previously gems:)
