@@ -1,0 +1,11 @@
+paS:
+  name: "孙鹏飞"
+  bio: "Web Developer"
+  avatar: "https://cdn.jsdelivr.net/gh/SSSpaS/my-image-hosting/pom-pom-purin-avatar.jpg"
+  links:
+    - label: "Email"
+      icon: "far fa-envelope"
+      url: "mailto:m15254399551@163.com"
+    - label: "GitHub"
+      icon: "fab fa-github-alt"
+      url: "https://github.com/SSSpaS"

@@ -22,11 +22,11 @@ minimal_mistakes_skin: "default" # "air", "aqua", "contrast", "dark", "dirt", "n
 # You can create any custom variable you would like, and they will be accessible
 # in the templates via {{ site.myvariable }}.
 locale: "zh-CN"
-title: SSSpaS的个人博客
+title: SSSpaS的博客
 title_separator: "|"
 email: m15254399551@163.com
 description: >- # this means to ignore newlines until "baseurl:"
-  一个探索计算机知识的Blog
+  一个探索计算机知识的博客
 url: "https://ssspas.github.io/" # the base hostname & protocol for your site, e.g. http://example.com
 repository: "SSSpaS/ssspas.github.io"
 github_username:  SSSpaS
@@ -78,6 +78,8 @@ defaults:
       show_date: true
       toc: true
       toc_sticky: true
+      author_profile: true
+      author: paS
   - scope:
       path: "_pages"
       type: pages
