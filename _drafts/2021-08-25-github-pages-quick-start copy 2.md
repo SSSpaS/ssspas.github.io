@@ -4,6 +4,8 @@ toc: true
 toc_sticky: true
 tags: 
   - test
+categories:
+  - test
 ---
 ## 简介
 
